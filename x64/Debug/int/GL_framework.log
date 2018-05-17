@@ -1,0 +1,7 @@
+﻿  render.cpp
+c:\users\firek98\desktop\movidasinfo\glframework_starthere\code\src\render.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\firek98\desktop\movidasinfo\glframework_starthere\code\src\render.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\firek98\desktop\movidasinfo\glframework_starthere\code\src\render.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\firek98\desktop\movidasinfo\glframework_starthere\code\src\render.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GL_framework.vcxproj -> C:\Users\Firek98\Desktop\MovidasInfo\glframework_starthere\x64\Debug\GL_framework.exe
+  GL_framework.vcxproj -> C:\Users\Firek98\Desktop\MovidasInfo\glframework_starthere\x64\Debug\GL_framework.pdb (Partial PDB)
